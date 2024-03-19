@@ -66,7 +66,7 @@ st.set_page_config(page_title="GemSQL")
 # st.title("Logo")
 
 # Display image from a file
-with open("support/logo.png", "rb") as f:
+with open("Assets/logo.png", "rb") as f:
     image_bytes = f.read()
 
 # st.image(image_bytes, width=200)
