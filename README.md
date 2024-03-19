@@ -42,9 +42,9 @@ Run the model
 Use the database only with file name "DATA.db"
 
 ## Architecture
-![img](support/GemSQL-FlowChart.png)
+![img](Assets/GemSQL-FlowChart.png)
 
 ## User Interface and Results
 
-![img](support/UI_1.png)
-![img](support/UI_2.png)
+![img](Assets/UI_1.png)
+![img](Assets/UI_2.png)
